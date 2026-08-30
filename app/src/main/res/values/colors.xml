@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#000000</color>
+    <color name="app_text">#F2F2F2</color>
+    <color name="app_secondary_text">#9A9F9A</color>
+    <color name="app_accent">#8BE28B</color>
+    <color name="app_accent_pressed">#122012</color>
+    <color name="app_accent_border">#426B42</color>
+    <color name="app_border">#303430</color>
+    <color name="app_disabled">#505450</color>
+    <color name="wallpaper_background">#000000</color>
+    <color name="launcher_background">#000000</color>
+</resources>
