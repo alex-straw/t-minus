@@ -13,7 +13,7 @@
 
 Explanatory copy:
 
-> I think AGI could make the world unrecognisable within a year. Nobody knows what comes next. T is a reminder to live intentionally until then.
+> I think AGI could make the world unrecognisable within a year. Nobody knows what comes next. T Minus is a reminder to live intentionally until then.
 
 The GitHub username contains a hyphen, which is invalid in a Kotlin package segment, so `alexstraw` is the normalized package owner.
 
@@ -124,7 +124,7 @@ Use the platform `DatePickerDialog`. While applying, disable controls and show a
 - App opened while active: compare wallpaper IDs first. If they match, refresh it; if not, deactivate and never write.
 - Manual date changes affect only the preview until Apply succeeds.
 - Unsupported or policy-blocked devices show `Couldn't change the lock screen wallpaper on this device.`
-- Other failures show `Couldn't update T.`
+- Other failures show `Couldn't update T Minus.`
 
 ## Daily updating
 

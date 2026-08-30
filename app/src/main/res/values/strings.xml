@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">T</string>
+    <string name="app_name">T Minus</string>
     <string name="tagline">A date to count towards.</string>
     <string name="change">Change</string>
     <string name="change_date">Change date</string>
     <string name="set_lock_screen">Set as lock screen</string>
     <string name="update_lock_screen">Update lock screen</string>
     <string name="stop_updating">Stop updating</string>
-    <string name="explanation">I think AGI could make the world unrecognisable within a year. Nobody knows what comes next. T is a reminder to live intentionally until then.</string>
+    <string name="explanation">I think AGI could make the world unrecognisable within a year. Nobody knows what comes next. T Minus is a reminder to live intentionally until then.</string>
     <string name="wallpaper_not_allowed">Couldn\'t change the lock screen wallpaper on this device.</string>
-    <string name="update_failed">Couldn\'t update T.</string>
-    <string name="wallpaper_changed">T stopped updating because the lock screen wallpaper changed.</string>
+    <string name="update_failed">Couldn\'t update T Minus.</string>
+    <string name="wallpaper_changed">T Minus stopped updating because the lock screen wallpaper changed.</string>
     <string name="wallpaper_preview">Lock screen wallpaper preview</string>
 </resources>
