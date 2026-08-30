@@ -1,4 +1,4 @@
-# T
+# T Minus
 
 [![CI](https://github.com/alex-straw/t-minus/actions/workflows/ci.yml/badge.svg)](https://github.com/alex-straw/t-minus/actions/workflows/ci.yml)
 
@@ -6,7 +6,7 @@ A date to count towards.
 
 `T-364`
 
-T puts a minimal countdown to a meaningful future date on your Android lock screen. It uses local calendar days, updates shortly after midnight, and stops automatically if you replace the wallpaper.
+T Minus puts a minimal countdown to a meaningful future date on your Android lock screen. It uses local calendar days, updates shortly after midnight, and stops automatically if you replace the wallpaper.
 
 The default target is 8 August 2027. It is a personal default, not a claim of scientific consensus.
 
@@ -15,7 +15,7 @@ The default target is 8 August 2027. It is a personal default, not a claim of sc
 1. Download [`T.apk`](https://github.com/alex-straw/t-minus/releases/latest/download/T.apk) and [`T.apk.sha256`](https://github.com/alex-straw/t-minus/releases/latest/download/T.apk.sha256).
 2. Verify the checksum.
 3. Open `T.apk` on an Android device and allow installation from the browser or file manager when Android asks.
-4. Open T, choose a date, and select **Set as lock screen**.
+4. Open T Minus, choose a date, and select **Set as lock screen**.
 
 PowerShell checksum verification:
 
@@ -34,7 +34,7 @@ Android may warn that the app came from outside an app store. Only install relea
 
 ## Privacy
 
-T has no network access, analytics, accounts, advertising, or data collection. It requests no `INTERNET` or runtime permission. Its only app-facing capability is `SET_WALLPAPER`; WorkManager adds normal wake-lock and reboot permissions so daily updates survive process death and device restarts. The selected date and wallpaper state stay in private storage on the device.
+T Minus has no network access, analytics, accounts, advertising, or data collection. It requests no `INTERNET` or runtime permission. Its only app-facing capability is `SET_WALLPAPER`; WorkManager adds normal wake-lock and reboot permissions so daily updates survive process death and device restarts. The selected date and wallpaper state stay in private storage on the device.
 
 ## Build
 
