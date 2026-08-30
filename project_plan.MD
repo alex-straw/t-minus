@@ -13,7 +13,7 @@
 
 Explanatory copy:
 
-> I think AGI could make the world unrecognisable within a year. Nobody knows what comes next. T Minus is a reminder to live intentionally until then.
+> AGI will make the world unrecognisable. Before then, live intentionally.
 
 The GitHub username contains a hyphen, which is invalid in a Kotlin package segment, so `alexstraw` is the normalized package owner.
 
